@@ -35,3 +35,5 @@
 **Both bold and _Nested italic_ type of font style**
 
 ***~~Both bold and italic type of font style~~***
+
+*~~italic type of font style~~*
