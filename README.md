@@ -44,6 +44,7 @@
 >This is sub point
 
 @grinning :+1: This Christmas looks great - it's ready to celebrate! :mx_claus:
+#
 
 ##### git config --global user.name "MYName"
 ##### git config user.name//to chech user name//
@@ -56,3 +57,4 @@
 ##### next to initialize empty repository "git init"(inorder to push files first we need to initialize it )
 ##### to chect status tracking/untracking use "git status"
 ##### to add the file in track path use "git add <filename>" lly for all files "git add ."
+##### to save the changes use "git commit -m "<commits>"" 
