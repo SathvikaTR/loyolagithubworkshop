@@ -54,3 +54,4 @@
 ##### create file using "touch"
 ##### next set path using "cd" command
 ##### next to initialize empty repository "git init"(inorder to push files first we need to initialize it )
+##### to chect status use "git status"
