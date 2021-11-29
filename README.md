@@ -18,3 +18,17 @@
 
 ![Akshardam](https://media.easemytrip.com/media/Blog/India/637116640324801740/637116640324801740ptZ4Mc.jpg)
 
+* Fruits
+   * Mango
+   * Grapes
+   * PineApple
+1.  Vegetables
+    1.  Tomatoes
+    2.  Onions
+    3.  Carrot
+    
+ sno|Name
+ ---|----
+ 1|Friends
+ 2|HEHEHE
+ 
