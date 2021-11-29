@@ -41,4 +41,4 @@
 
 >This is sub point
 
-@grinning :+1: This PR looks great - it's ready to merge! :mx_claus:
+@grinning :+1: This Christmas looks great - it's ready to celebrate! :mx_claus:
