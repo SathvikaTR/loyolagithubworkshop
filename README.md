@@ -52,5 +52,5 @@
 #### create folder/set path
 #### make folder using "mkdir"
 #### create file using "touch"
-#### next set path using cd command
-#### next to initialize empty repository
+#### next set path using "cd" command
+#### next to initialize empty repository "git init"
