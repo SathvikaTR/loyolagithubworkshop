@@ -47,9 +47,9 @@
 #
 
 ##### git config --global user.name "MYName"
-##### git config user.name//to chech user name//
+###### git config user.name//to chech user name//
 ##### git config --global user.email "email@gmail.com"
-##### $ git config user.email//to check email// 
+###### $ git config user.email//to check email// 
 ##### create folder/set path
 ##### make folder using "mkdir"
 ##### create file using "touch"
@@ -58,3 +58,5 @@
 ##### to chect status tracking/untracking use "git status"
 ##### to add the file in track path use "git add <filename>" lly for all files "git add ."
 ##### to save the changes use "git commit -m "<commits>"" 
+##### to check any remotes are prsnt are not use "git remote" 
+###### to add any remotes use "git remote add <remote name>"
