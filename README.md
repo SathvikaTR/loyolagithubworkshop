@@ -32,4 +32,4 @@
  1|Friends
  2|HEHEHE
  
-**Both bold and _ Nested italic_ type of font style**
+**Both bold and _Nested italic_ type of font style**
