@@ -59,4 +59,5 @@
 ##### to add the file in track path use "git add <filename>" lly for all files "git add ."
 ##### to save the changes use "git commit -m "<commits>"" 
 ##### to check any remotes are prsnt are not use "git remote" 
-###### to add any remotes use "git remote add <remote name>"
+###### to add any remotes use "git remote add [<options>] <name> <url>
+"
