@@ -60,4 +60,4 @@
 ##### to save the changes use "git commit -m "<commits>"" 
 ##### to check any remotes are prsnt are not use "git remote" 
 ###### to add any remotes use "git remote add [<options>] <name> <url>
-"
+##### to push the files "git push <remote name> master"
