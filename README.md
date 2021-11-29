@@ -18,4 +18,3 @@
 
 ![Akshardam](https://media.easemytrip.com/media/Blog/India/637116640324801740/637116640324801740ptZ4Mc.jpg)
 
-
