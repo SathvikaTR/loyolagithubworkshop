@@ -44,3 +44,13 @@
 >This is sub point
 
 @grinning :+1: This Christmas looks great - it's ready to celebrate! :mx_claus:
+
+# git config --global user.name "sathtr"
+#  git config user.name//to chech user name//
+#  git config --global user.email "sathvikareddy5701@gmail.com"
+# $ git config user.email//to check email// 
+# create folder/set path
+# make folder using "mkdir"
+# create file using "touch"
+# next set path using cd command
+# next to initialize empty repository
