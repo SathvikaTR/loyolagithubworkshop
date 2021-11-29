@@ -54,4 +54,5 @@
 ##### create file using "touch"
 ##### next set path using "cd" command
 ##### next to initialize empty repository "git init"(inorder to push files first we need to initialize it )
-##### to chect status use "git status"
+##### to chect status tracking/untracking use "git status"
+##### to add the file in track path use "git add <filename>" lly for all files "git add ."
